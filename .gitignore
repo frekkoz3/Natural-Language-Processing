@@ -1,0 +1,13 @@
+# Local virtual environments
+nlp_transformers/
+nlp_transformers-python314-backup/
+.venv/
+
+# Notebook / Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# solution
+NLP_Lab1_Building_Transformers_Solutions.ipynb
+NLP_Lab1_Building_Transformers copy.ipynb
